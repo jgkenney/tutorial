@@ -17,3 +17,6 @@ to push changes to github repository
 9. git add *
 10. git commit -m "updated readme file with documentation"
 11. git push origin master
+
+to pull changes from repository
+12. git pull origin master  **ALWAYS PULL BEFORE MAKING CHANGES**
