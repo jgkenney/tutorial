@@ -1,6 +1,6 @@
 # Git tutorial
 
-clone existing repository to htdocs
+clone existing repository to htdocs:
 
     git clone https://github.com/jgkenney/tutorial.git
 
